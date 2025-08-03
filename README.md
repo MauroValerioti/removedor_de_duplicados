@@ -23,6 +23,13 @@ Este proyecto contiene **dos scripts en Python** (con sus .bat) que te permiten:
 
 ---
 
+## ¿Como funciona?
+
+* Este script no se basa en nombre o tamaño de archivo.
+* Para imágenes uso perceptual hashing (pHash), que compara visualmente los pixeles.
+* Para videos uso OpenCV para capturar 3 keyframes y analizar su similitud visual con imagehash.
+* Eso permite detectar duplicados aunque tengan distinta resolución, peso o nombre
+
 ## ¿Cómo usarlo?
 
 ### Opción 1 – Python ya instalado
