@@ -39,7 +39,3 @@ Este proyecto contiene **dos scripts en Python** (con sus .bat) que te permiten:
 > Coming soon: versión `.exe` portable sin dependencias  
 > (Podés seguir usando los `.bat` si tenés Python instalado)
 
----
-
-## 📂 Estructura esperada
-
