@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 ¿Qué hace?
+## ¿Qué hace?
 
 Este proyecto contiene **dos scripts en Python** (con sus .bat) que te permiten:
 
